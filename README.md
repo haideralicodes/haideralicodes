@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-📫 How to reach me **haiderali920687@gmail.com**
+- 📫 How to reach me **haiderali920687@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
 
