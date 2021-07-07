@@ -1,9 +1,12 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0/1600774582457?e=1628121600&v=beta&t=HN2xs8iRv7SQr4RlzzSs1KrRhnC0CpUfD1K40jqxYWc)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 <h3 align="center">A CS Freshmen who loves exploring new fields and who loves to empower others.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali920687&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali920687" /> </p>
+
+📫 How to reach me **haiderali920687@gmail.com**
+
+- ⚡ Fun fact **I think I am funny XD**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haiderali920687" alt="haiderali920687" /></a> </p>
 
