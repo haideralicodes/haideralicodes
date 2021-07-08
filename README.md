@@ -1,6 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-</br>
-  
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 <h3 align="center">A CS Freshmen who loves exploring new fields and who loves to empower others.</h3>
 
