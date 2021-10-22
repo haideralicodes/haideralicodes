@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
-<h3 align="center">A CS Freshmen who loves exploring new fields and who loves to empower others.</h3>
+<h3 align="center">A CS Student who loves exploring new fields and who loves to empower others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEip5ru6ZyctbyDkkQTM8kegwkpuimFz9-m_j4MQDf9lAUgedYQj9siVRNPDGQcb2kqlIpbh3t1R1ltWaewbHGcQQeA5kunVGraYwDiJXUeS8lVGhIVHMaqBc3Ji8sQIlfXsxUr9b8TR0N5ryUmycK4dF5h34lvQWVx8azmmjxVsA7dB4n6seZGVYHeQ=s1920" alt="Coder GIF" width="1000">
