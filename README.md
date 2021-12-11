@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **haiderali920687@gmail.com**
 - 🔭 I’m currently working on Python.
-- 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on open source
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages ( English, Urdu, Panjabi, Hindi)
