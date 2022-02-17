@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I speak 4 languages ( English, Urdu, Panjabi, Hindi)
 - 📝 I regularly write articles on [https://problemsolvingbyjava.blogspot.com/](https://problemsolvingbyjava.blogspot.com/)
 
-
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"
