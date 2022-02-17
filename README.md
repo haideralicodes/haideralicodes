@@ -2,7 +2,7 @@
 <h3 align="center">A CS Student who loves exploring new fields and who loves to empower others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
-    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiusEh6RgDDzM_462jN1gpoURDVtDTJvYk9RSD03Dac7wrVGur_G9cUVAnM9Ed4SJ7yY9v9jdFqzv4v9wkgdraTT3EL63T9aZnIADK3WREREHR1v00zQ1H4Dl5J7ZOTxxTopSMsXeuPmTOCjPw1o4yvAC4eBR1y5GesGCkpDQNsatC_tbodxOn4lh_c=s1500" alt="Coder GIF" width="1000">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhK6d4CgienTDchOOiqTcB8dD6jLoATLLV4VfCyYhR8hoi7pS1PRpK7OvN1WazPTnJTHLoFkxBC7CNjaly7fXxa2Ml9I1V1Ef8joRhKAUxSonKQHVBqryUUHwKfq9g3F1tvPBIFoJA0EAv5QGWWQAlj66cLiLLcDsaf4OlliNKxEUnus5PhaeBnk8SI=s1400" alt="Coder GIF" width="1000">
  </abc>
 
 - 📫 How to reach me **haiderali920687@gmail.com**
