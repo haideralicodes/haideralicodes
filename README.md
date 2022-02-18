@@ -65,7 +65,11 @@
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2>
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
