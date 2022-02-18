@@ -9,10 +9,8 @@
  <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
+<img width="40%" align="right" alt="Github Header" src="https://1.bp.blogspot.com/KaODJ-hgPAt5uB34aQGKeHHyk--HRI2rkIXifl_uxCyguF4He0Gi32heapljdR8o9ZqBjffkPAHH3Gk=s400" />
 
-<img width="40%" align="right" alt="Github Header" src="https://1.bp.blogspot.com/nuLsw8_R9k-vtP64vu-wKW7SOAYxo_n8ccy6llU-rhQThxUyfU2JdzT5zsm7yK7sZn0KcZ2ZQozQEew=s400" />
- 
- 
  </p>
  
 - 📫 How to reach me **haiderali920687@gmail.com**
