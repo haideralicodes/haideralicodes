@@ -43,7 +43,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haiderali920687&show_icons=true&locale=en" alt="haiderali920687" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderali920687&show_icons=true&locale=en&layout=compact" alt="haiderali920687" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderali920687&" alt="haiderali920687" /></p>
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
