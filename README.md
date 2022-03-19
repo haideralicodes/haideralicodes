@@ -2,7 +2,14 @@
 <h1 align="center">  Hi, I'm Haider Ali! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">A CS Student who loves exploring new fields & who loves to Empower others.</h3>
 
-<img src ="https://blogger.googleusercontent.com/img/a/AVvXsEiXF9fNI2TbHFWA2C1xODVD4pcQ-L5g2zsHte4TLP-E0-V-YPiGptD5nbgY6twysPEyUc2YSt0fw9Kch-EqQEvJCOaKPGGb_uQBtrapziCqAEpWFOweMJfzKsbvLSEhc0gE9u8QZQeMzCCewyMlCLDQVg3s1CCjrXc1l7pkkyLZUuwZ46hnO-PNiB_S"/></a>
+
+
+
+
+<img src ="https://blogger.googleusercontent.com/img/a/AVvXsEiAvP8-c6VnJOAmNGqMJBjESIm0hitzTKPTNlha9gBLBPLWQI7grcekF-Ufh5DFOsaj6MR8foQpGDaWdpbh2rKKbu2sDend0DS16g33oQqGzIhvtxmrCAzqZWhRDY5UEGBIEUTG1q3D7wOwdAZYpog07DWs_ajjOsGfieDO7zbdICY579FS4r8zRHgE"/></a>
+
+
+
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
