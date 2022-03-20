@@ -1,27 +1,19 @@
-
 <h1 align="center">  Hi, I'm Haider Ali! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <h3 align="center">A CS Student who loves exploring new fields & who loves to Empower others.</h3>
-
-
-
 
 
 <p align="center"><img src ="https://blogger.googleusercontent.com/img/a/AVvXsEgBoxcCtXs0wiXbYxXTpHGRM5ACQrphVgcTm7OUnnErsFSpA1v7oxlN42da4xyB_KT3ELF_Y3GgXATGk73LAGkC-VQugy619EpuRiLKMK94RCZ7PEfSQFDYM1geGqOW_mtMGSQPW5v3fymstmZf-YKj6zy2boYV7NRRDTvrwYNvBetvvaoqWrNOEzCu"/></a>
 
 
-
-
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
- </abc>
- 
- <br>
+
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
 <p>
  
- - 🎓 I'm CS Sophomore at COMSATS Institute of Information Technology Islamabad.
+- 🎓 I'm CS Sophomore at COMSATS Institute of Information Technology Islamabad.
 - 📫 How to reach me **haiderali920687@gmail.com**
 - 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning Java.
@@ -31,8 +23,8 @@
 - ⚡ Fun fact: I speak 4 languages ( English, Urdu, Panjabi, Hindi)
 - 📝 I regularly write articles on [https://problemsolvingbyjava.blogspot.com/](https://problemsolvingbyjava.blogspot.com/)
 
- 
 </p>
+
 
 
 <!--:Profile views Counter!-->
