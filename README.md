@@ -19,9 +19,9 @@
  <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
 
-
- </p>
-- 🎓 I'm CS Sophomore at COMSATS Institute of Information Technology Islamabad.
+<p>
+ 
+ - 🎓 I'm CS Sophomore at COMSATS Institute of Information Technology Islamabad.
 - 📫 How to reach me **haiderali920687@gmail.com**
 - 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning Java.
@@ -30,6 +30,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages ( English, Urdu, Panjabi, Hindi)
 - 📝 I regularly write articles on [https://problemsolvingbyjava.blogspot.com/](https://problemsolvingbyjava.blogspot.com/)
+
+ 
+</p>
 
 
 <!--:Profile views Counter!-->
