@@ -31,7 +31,8 @@
 - ⚡ Fun fact: I speak 4 languages ( English, Urdu, Panjabi, Hindi)
 - 📝 I regularly write articles on [https://problemsolvingbyjava.blogspot.com/](https://problemsolvingbyjava.blogspot.com/)
 
-
+<!--:Profile views Counter!-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haiderali920687&label=Profile%20views&color=0e75b6&style=flat" alt="haiderali920687" /> </p>
 
 #
 <!--Used Tools and languages !-->
