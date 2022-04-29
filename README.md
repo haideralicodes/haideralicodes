@@ -1,9 +1,8 @@
 <h1 align="center">  Hi, I'm Haider Ali! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<h3 align="center">A CS Student who loves exploring new fields & who loves to Empower others.</h3>
 
-
-<p align="center"><img src ="https://blogger.googleusercontent.com/img/a/AVvXsEgBoxcCtXs0wiXbYxXTpHGRM5ACQrphVgcTm7OUnnErsFSpA1v7oxlN42da4xyB_KT3ELF_Y3GgXATGk73LAGkC-VQugy619EpuRiLKMK94RCZ7PEfSQFDYM1geGqOW_mtMGSQPW5v3fymstmZf-YKj6zy2boYV7NRRDTvrwYNvBetvvaoqWrNOEzCu"/></a>
-
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=α%20Student%20Ambassador%20at%20Microsoft;Content%20Writer%20At%20MLSA%20ISB;%20CS%20Sophomore;Self-Taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
+</p>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
