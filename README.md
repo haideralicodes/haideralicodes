@@ -7,9 +7,6 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-
-<b> "Sleep😴 To Program Your Subconscious Space"</b>
-
 <p>
  
 - 🎓 I'm CS Sophomore at COMSATS Institute of Information Technology Islamabad.
@@ -23,12 +20,6 @@
 - 📝 I regularly write articles on [https://problemsolvingbyjava.blogspot.com/](https://problemsolvingbyjava.blogspot.com/)
 
 </p>
-
-
-
-<!--:Profile views Counter!-->
-![](https://komarev.com/ghpvc/?username=haiderali920687&color=ff69b4)
-
 
 
 <!--Used Tools and languages !-->
@@ -69,7 +60,7 @@
 
   
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 
 
 
