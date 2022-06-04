@@ -1,4 +1,4 @@
-<h1 align="center">  Hi, I'm Haider Ali! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1 align="center">  Hi, I'm Haider Ali! </h1>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=α%20Student%20Ambassador%20at%20Microsoft;Content%20Writer%20At%20MLSA%20ISB;%20CS%20Sophomore;Self-Taught%20Programmer;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
