@@ -58,15 +58,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderali920687&" alt="haiderali920687" /></p>
 
-
 <br>
+
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
+<br>    
+    
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<h2 align='center'><i>Stay awesome!</i></h2>
+<br>
+    
+<h2 align='center'>Stay awesome...❤</h2>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
