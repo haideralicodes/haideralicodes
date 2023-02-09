@@ -26,7 +26,7 @@
 
 </p>
 
-
+<br>
 <!-- <div align="center">
 <p align="center">Workstation</p> -->
 <div align="center">
@@ -51,7 +51,7 @@
 <a href = "https://twitter.com/haideralispeaks"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
   
-
+<br>
 <h2 align="center">Some Stats</h2>
 
 
