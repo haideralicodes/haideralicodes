@@ -41,7 +41,7 @@
 <a href = "https://problemsolvingbyjava.blogspot.com/"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjWIxKK5jwgpC0DVpY7J3h7JNUIF5N_UeAB0Jhj5eARGFZ7r6BuXKblFa5Ol9rVXLX5fnvs1DxeE1di-beJ65KQcBNNhy0ccNs2hw6ytq5ujRT2_7piza0Tc_W6ICcaAUPHFsCalxcIBQuV8t9j-iNcZnRO35Nd8QGimHx6l9qbno51pudUIlibI9yn"/width = 48px></a>
 <a href = "https://medium.com/@haiderali920687"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEiNEfmbJaslXW1FX8-uCJmqdczdWDyds06xvKBGkV3_Aby8axdHH4Q_RLgzTobxw838Co9r8FHyoWaTd-0uOOIPtS4mEibVwpSJicoXnj-SnewzwG8Pryywro5ZMCsouIGgk4X3amdSAFpm4VuhxCOwZ_0ryc9hMCmJuI1Db3o0kiEqYKZB7OLo74iG"/width = 48px></a>
 <a href = "https://linkedin.com/in/haiderali920687"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://stackoverflow.com/users/16567868/haider-ali"><img src="https://img.icons8.com/fluent/48/000000/stack-overflow.png"/></a>
+<a href = "https://stackoverflow.com/users/16567868/haider-ali"><img src="[https://img.icons8.com/fluent/48/000000/stack-overflow.png](https://icons8.com/icon/16473/stack-overflow)"/></a>
 <a href = "https://linktr.ee/haideralispeaks"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj2JjeLTl_kpVvfZVFH8XCN3j8--GVPjCaK--KaNTgJJnWO3KHvxPfxaoun9SGpNRXPhG9WW_ZnhWSTyhlQlXwy-JVfOMe_fuaW8KH67UNw5oTTIaAw48Ki1CM7XHM46sgH1MAWt8ymWDAJB01agup65QHUWJhqoOJEmxb6eGo1ajJHWUrQ6EqqBJ7k"/ width = 48px></a>
 <a href = "https://twitter.com/haideralispeaks"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
