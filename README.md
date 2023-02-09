@@ -6,7 +6,7 @@
 
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjKut4RZ9tNp-mTeElnkylPVDlQBoxBUeo5Ws4oOlBuz1YDc51LHAr1XkW1JWL699HAxBFOooV9ufK55MW-IRyMiVnDQAiV_A6bJ925yEvbbN38wirxYdm1xkkV7_r9VZB974tnpckYFyJEiZA69bhVLguZWeuTPGkHSaQiQTfcIapYI6T71yPI6ji2" align="center" />
 
-<br><br>
+<br>
 <h2 align="center">About Me</h2>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
