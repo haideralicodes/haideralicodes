@@ -6,6 +6,9 @@
 
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjKut4RZ9tNp-mTeElnkylPVDlQBoxBUeo5Ws4oOlBuz1YDc51LHAr1XkW1JWL699HAxBFOooV9ufK55MW-IRyMiVnDQAiV_A6bJ925yEvbbN38wirxYdm1xkkV7_r9VZB974tnpckYFyJEiZA69bhVLguZWeuTPGkHSaQiQTfcIapYI6T71yPI6ji2" align="center" />
 
+<br><br>
+<h2 align="center">About Me</h2>
+
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
@@ -49,7 +52,7 @@
 
   
 
-<h2 align="center"> Stats </h2>
+<h2 align="center">Some Stats</h2>
 
 
 
