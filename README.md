@@ -4,7 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self-Taught%20Front-End%20Developer,;β%20Microsoft%20Learn%20Student%20Ambassador;GDSC%20Content%20Writing%20Lead,;Content%20Writer%20at%20MLSA%20Islamabad;%20Computer%20Science%20Student,;Love%20to%20learn%20new%20stuffs..&lt;3;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
 </p>
 
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEgAxNSfvibqvlMK-UkcEe2uriSYuefOJnK_7bsGUzQvgmK5Gi9Q_yonImNhpanXvHtygqM5gQ47OcN2ByJ65X_gHJ2YMxcWXLrhms72yaGPFYRfodPdayu4bgaCFCA03pVYHcF_G46sXec2WxOwyc2Z-d6wmN47U6-bX-eBe4DEqXRnK-lgkAE_yb4k" align="center" />
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEjDrCR59eWBkkMk1PG4ORJjhmz6FOPzGYHZkYxjAAVMglUrQUsB22TcLOkfB84UYxvOzNz2eCLxd6SxCJGijmMpb5HX0DIUwt3e1-a6QT14e2ltFprkDKlyD3baWWj1K313QgEz0lnU4B6oqiovW8VWniR-VezWCyJl6B2r0EJMbZECbB8xg3vhI_jw" align="center" />
 
 <br>
 <h2 align="center">About Me</h2>
