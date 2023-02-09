@@ -9,10 +9,10 @@
 
 <p>
  
-- 🎓 I'm CS Sophomore at COMSATS Institute of Information Technology Islamabad.
+- 🎓 I'm a Front-End Developer.
 - 📫 How to reach me **haiderali920687@gmail.com**
-- 🔭 I’m currently working on Python.
-- 🌱 I’m currently learning Java.
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
