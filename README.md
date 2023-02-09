@@ -7,24 +7,20 @@
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjDrCR59eWBkkMk1PG4ORJjhmz6FOPzGYHZkYxjAAVMglUrQUsB22TcLOkfB84UYxvOzNz2eCLxd6SxCJGijmMpb5HX0DIUwt3e1-a6QT14e2ltFprkDKlyD3baWWj1K313QgEz0lnU4B6oqiovW8VWniR-VezWCyJl6B2r0EJMbZECbB8xg3vhI_jw" align="center" />
 
 <br>
-<h2 align="center">About Me</h2>
+<h2 align="center">Something About Me</h2>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-
-<p>
- 
+```golang
 - 🎓 I'm a Front-End Developer.
-- 📫 How to reach me **haiderali920687@gmail.com**
-- 🔭 I’m currently working on Web Development.
+- 📫 How to reach me "haiderali920687@gmail.com"
+-  I’m currently working on Web Development.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages ( English, Urdu, Panjabi, Hindi)
-- 📝 I regularly write articles on [https://problemsolvingbyjava.blogspot.com/](https://problemsolvingbyjava.blogspot.com/)
+    
+```
 
-</p>
 
 <br>
 <!-- <div align="center">
@@ -63,7 +59,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderali920687&" alt="haiderali920687" /></p>
 
 
-
+<br>
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
