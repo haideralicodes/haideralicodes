@@ -18,7 +18,6 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages ( English, Urdu, Panjabi, Hindi)
-    
 ```
 
 
