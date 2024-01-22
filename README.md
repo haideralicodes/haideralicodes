@@ -5,13 +5,14 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipv79Mc-nn7m3m0hl_8plVkPPL21vvMAdQHdzHjIhJ-ywX1JwXaF_GKtvVj5BGa1gjqd76zhJ6pukQgm1WyrygFm9lan5xPIM2z-xSq2piIqKQuRk0XbLt5JXemoHbTi9CF5l10JAK5J2yIqbd9xIv3l33n56oAufQRG9fI-E859SErlCcuT_l2YXf6mg/s832/code.png" align="center" height="270" width="550"/>
 </p>
 
+<br>
 <p align="center">
   <a>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-Taught%20Front-End%20Developer,;β%20Microsoft%20Learn%20Student%20Ambassador;Devsinc%20Student%20Ambassador,;Computer%20Science%20Student,;Love%20to%20learn%20new%20technologies;&font=Fira%20Code&center=true&width=520&height=45&color=1572B6&vCenter=true&size=27">
   </a>
 </p>
 
-<br>
+
 <h2 align="center">Something About Me</h2>
 
 ```golang
