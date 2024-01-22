@@ -92,38 +92,22 @@
 <a href = "https://linktr.ee/haideralispeaks"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj2JjeLTl_kpVvfZVFH8XCN3j8--GVPjCaK--KaNTgJJnWO3KHvxPfxaoun9SGpNRXPhG9WW_ZnhWSTyhlQlXwy-JVfOMe_fuaW8KH67UNw5oTTIaAw48Ki1CM7XHM46sgH1MAWt8ymWDAJB01agup65QHUWJhqoOJEmxb6eGo1ajJHWUrQ6EqqBJ7k"/ width = 48px></a>
 <a href = "https://twitter.com/haideralispeaks"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-  
+<br>
 <br>
 <h2 align="center">Some Stats</h2>
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderali920687&show_icons=true&locale=en&layout=compact" alt="haiderali920687" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haiderali920687&show_icons=true&locale=en" alt="haiderali920687" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderali920687&" alt="haiderali920687" /></p>
 
-<br>
-
-## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
-
-<br>    
-    
+<br>       
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <br>
-    
 <h2 align='center'>Stay awesome...❤</h2>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
-
-
-
-
-
