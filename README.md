@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipv79Mc-nn7m3m0hl_8plVkPPL21vvMAdQHdzHjIhJ-ywX1JwXaF_GKtvVj5BGa1gjqd76zhJ6pukQgm1WyrygFm9lan5xPIM2z-xSq2piIqKQuRk0XbLt5JXemoHbTi9CF5l10JAK5J2yIqbd9xIv3l33n56oAufQRG9fI-E859SErlCcuT_l2YXf6mg/s832/code.png" align="center" height="270" width="550"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipv79Mc-nn7m3m0hl_8plVkPPL21vvMAdQHdzHjIhJ-ywX1JwXaF_GKtvVj5BGa1gjqd76zhJ6pukQgm1WyrygFm9lan5xPIM2z-xSq2piIqKQuRk0XbLt5JXemoHbTi9CF5l10JAK5J2yIqbd9xIv3l33n56oAufQRG9fI-E859SErlCcuT_l2YXf6mg/s832/code.png" align="center" height="270" width="580"/>
 </p>
 
 <br>
@@ -22,7 +22,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages ( English, Urdu, Panjabi, Hindi)
 ```
-
 
 <br>
 <!-- <div align="center">
@@ -84,11 +83,13 @@
 <!--:Social Media Links!-->
 <div align="center">
 <h2 align="center">Connect with me</h2>
-<a href = "https://www.instagram.com/haideralispeaks/"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgnhK-glS5v-LnxnZW08FvKXjBizMQh6aSfXdPxc1aKEH7SWgLRLYEtVRO-73rNeI4TqDHiQdiRWjommr-2-aakw9X8kdgSBB2CeQ2WK7QbB-jUD_FI9mJMSb9dMS9bSoZOmLiKJvhf4x_Fla5bieHHd6iIQ-z7UvwG3Z5_P58nJYFoQcuoFvSotLJD"/width = 48px></a> 
-<a href = "https://problemsolvingbyjava.blogspot.com/"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjWIxKK5jwgpC0DVpY7J3h7JNUIF5N_UeAB0Jhj5eARGFZ7r6BuXKblFa5Ol9rVXLX5fnvs1DxeE1di-beJ65KQcBNNhy0ccNs2hw6ytq5ujRT2_7piza0Tc_W6ICcaAUPHFsCalxcIBQuV8t9j-iNcZnRO35Nd8QGimHx6l9qbno51pudUIlibI9yn"/width = 48px></a>
-<a href = "https://medium.com/@haiderali920687"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEiNEfmbJaslXW1FX8-uCJmqdczdWDyds06xvKBGkV3_Aby8axdHH4Q_RLgzTobxw838Co9r8FHyoWaTd-0uOOIPtS4mEibVwpSJicoXnj-SnewzwG8Pryywro5ZMCsouIGgk4X3amdSAFpm4VuhxCOwZ_0ryc9hMCmJuI1Db3o0kiEqYKZB7OLo74iG"/width = 48px></a>
+<a href = "https://problemsolvingbyjava.blogspot.com/">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjWIxKK5jwgpC0DVpY7J3h7JNUIF5N_UeAB0Jhj5eARGFZ7r6BuXKblFa5Ol9rVXLX5fnvs1DxeE1di-beJ65KQcBNNhy0ccNs2hw6ytq5ujRT2_7piza0Tc_W6ICcaAUPHFsCalxcIBQuV8t9j-iNcZnRO35Nd8QGimHx6l9qbno51pudUIlibI9yn"/width = 48px></a>
+<a href = "https://medium.com/@haiderali920687">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiNEfmbJaslXW1FX8-uCJmqdczdWDyds06xvKBGkV3_Aby8axdHH4Q_RLgzTobxw838Co9r8FHyoWaTd-0uOOIPtS4mEibVwpSJicoXnj-SnewzwG8Pryywro5ZMCsouIGgk4X3amdSAFpm4VuhxCOwZ_0ryc9hMCmJuI1Db3o0kiEqYKZB7OLo74iG"/width = 48px>
+</a>
 <a href = "https://linkedin.com/in/haiderali920687"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://stackoverflow.com/users/16567868/haider-ali"><img src="[https://img.icons8.com/fluent/48/000000/stack-overflow.png](https://icons8.com/icon/16473/stack-overflow)"/></a>
+<a href = "https://stackoverflow.com/users/16567868/haider-ali"><img src="[https://img.icons8.com/fluent/48/000000/stack-overflow.png](https://icons8.com/icon/16473/stack-overflow)"/</a>
 <a href = "https://linktr.ee/haideralispeaks"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEj2JjeLTl_kpVvfZVFH8XCN3j8--GVPjCaK--KaNTgJJnWO3KHvxPfxaoun9SGpNRXPhG9WW_ZnhWSTyhlQlXwy-JVfOMe_fuaW8KH67UNw5oTTIaAw48Ki1CM7XHM46sgH1MAWt8ymWDAJB01agup65QHUWJhqoOJEmxb6eGo1ajJHWUrQ6EqqBJ7k"/ width = 48px></a>
 <a href = "https://twitter.com/haideralispeaks"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
