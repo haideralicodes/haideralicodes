@@ -1,7 +1,7 @@
 <h1 align="center">  Hi, I'm Haider Ali! </h1>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self-Taught%20Front-End%20Developer,;β%20Microsoft%20Learn%20Student%20Ambassador;GDSC%20Content%20Writing%20Lead,;Content%20Writer%20at%20MLSA%20Islamabad;%20Computer%20Science%20Student,;Love%20to%20learn%20new%20stuffs..&lt;3;&font=Fira%20Code&center=true&width=440&height=45&color=1572B6&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self-Taught%20Front-End%20Developer,;β%20Microsoft%20Learn%20Student%20Ambassador;Devsinc%20Student%20Ambassador,;Computer%20Science%20Student,;Love%20to%20learn%20new%20technologies;&font=Fira%20Code&center=true&width=520&height=45&color=1572B6&vCenter=true&size=27"></a>
 </p>
 
 <p align="center">
