@@ -16,7 +16,7 @@
 
 ```golang
 - 👨🏻‍💻 I'm a MERN Stack Developer.
-- 📫 How to reach me "haiderali920687@gmail.com"
+- 🎓 Final year CS
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
