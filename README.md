@@ -1,11 +1,13 @@
 <h1 align="center">  Hi, I'm Haider Ali! </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self-Taught%20Front-End%20Developer,;β%20Microsoft%20Learn%20Student%20Ambassador;Devsinc%20Student%20Ambassador,;Computer%20Science%20Student,;Love%20to%20learn%20new%20technologies;&font=Fira%20Code&center=true&width=520&height=45&color=1572B6&vCenter=true&size=27"></a>
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-Taught%20Front-End%20Developer,;β%20Microsoft%20Learn%20Student%20Ambassador;Devsinc%20Student%20Ambassador,;Computer%20Science%20Student,;Love%20to%20learn%20new%20technologies;&font=Fira%20Code&center=true&width=520&height=45&color=1572B6&vCenter=true&size=27">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipv79Mc-nn7m3m0hl_8plVkPPL21vvMAdQHdzHjIhJ-ywX1JwXaF_GKtvVj5BGa1gjqd76zhJ6pukQgm1WyrygFm9lan5xPIM2z-xSq2piIqKQuRk0XbLt5JXemoHbTi9CF5l10JAK5J2yIqbd9xIv3l33n56oAufQRG9fI-E859SErlCcuT_l2YXf6mg/s832/code.png" align="center" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipv79Mc-nn7m3m0hl_8plVkPPL21vvMAdQHdzHjIhJ-ywX1JwXaF_GKtvVj5BGa1gjqd76zhJ6pukQgm1WyrygFm9lan5xPIM2z-xSq2piIqKQuRk0XbLt5JXemoHbTi9CF5l10JAK5J2yIqbd9xIv3l33n56oAufQRG9fI-E859SErlCcuT_l2YXf6mg/s832/code.png" align="center" height="300"/>
 </p>
 
 <br>
@@ -26,8 +28,8 @@
 <p align="center">Workstation</p> -->
 <div align="center">
 <h2 align="center">Tools & Languages</h2>
+  
 <p align="center"> 
-
 <a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>
