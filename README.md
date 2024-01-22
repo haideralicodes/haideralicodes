@@ -101,7 +101,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderali920687&" alt="haiderali920687" /></p>
 
-<br>       
+<br>   
+
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
