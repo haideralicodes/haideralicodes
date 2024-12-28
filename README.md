@@ -1,17 +1,17 @@
 <h1 align="center"> 👋 Hi, I'm Haider Ali! </h1>
 
 <p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUXcmswzUUxncfbF82CMKVY8VRzZDpv2SPMH8TQF1yWm8RrvaQOeT5ogNM8P0p8Tx4vCrzcE_DWNIfewt3G8jluMiNBzowVu0-Sad2fa8Eidm9ChRd9mB2MNoIxtyAKvqFqmZ0D8AH1ArZEcwl3SPGqr4W3sfthw8PIrmsEB7taLNXzabJzHdhBI8yPuA/s854/Hello%20World,%20I%E2%80%99m%20Haider%20Ali.png" align="center" />
+</p>
+
+<br>
+
+<p align="center">
   <a>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;β%20Microsoft%20Learn%20Student%20Ambassador;Devsinc%20Campus%20Ambassador;Computer%20Science%20Student;&font=Fira%20Code&center=true&width=520&height=45&color=1572B6&vCenter=true&size=27">
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUXcmswzUUxncfbF82CMKVY8VRzZDpv2SPMH8TQF1yWm8RrvaQOeT5ogNM8P0p8Tx4vCrzcE_DWNIfewt3G8jluMiNBzowVu0-Sad2fa8Eidm9ChRd9mB2MNoIxtyAKvqFqmZ0D8AH1ArZEcwl3SPGqr4W3sfthw8PIrmsEB7taLNXzabJzHdhBI8yPuA/s854/Hello%20World,%20I%E2%80%99m%20Haider%20Ali.png" align="center" />
-</p>
-
-<br>
 <h2 align="center">Something About Me</h2>
 
 ```golang
