@@ -81,10 +81,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=haideralicodes&show_icons=true&locale=en" alt="haideralicodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haideralicodes&" alt="haideralicodes" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=haideralicodes&" alt="haideralicodes" /></p>
 
 <br>
+<br>
 <h2 align='center'>Stay awesome...❤</h2>
+<br>
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
