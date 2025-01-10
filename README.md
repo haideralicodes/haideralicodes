@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;β%20Microsoft%20Learn%20Student%20Ambassador;Devsinc%20Campus%20Ambassador;Computer%20Science%20Student;&font=Fira%20Code&center=true&width=520&height=45&color=1572B6&vCenter=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;β%20Microsoft%20Learn%20Student%20Ambassador;Devsinc%20Campus%20Ambassador;Computer%20Science%20Student;&font=Fira%20Bold&center=true&width=900&height=45&color=000000&vCenter=true&size=40">
   </a>
 </p>
 
