@@ -14,10 +14,8 @@
 
 ```golang
 - 👨🏻‍💻 I'm a MERN Stack Developer.
-- 🎓 Final year CS
-- 👯 I’m looking to collaborate on open source.
+- 👯 I’m open to collaborate on open source.
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages ( English, Urdu, Panjabi, Hindi)
 ```
 
